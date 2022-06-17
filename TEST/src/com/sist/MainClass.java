@@ -6,6 +6,8 @@ public class MainClass {
 		// TODO Auto-generated method stub
 		System.out.println("hello github");
 		System.out.println("hello github");
+		System.out.println("hello github");
+		System.out.println("hello github");
 		// 형상관리
 	}	
 
